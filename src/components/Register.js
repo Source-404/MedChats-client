@@ -11,7 +11,6 @@ function Register() {
             className="login-image"
             src="https://i.pinimg.com/originals/48/00/bd/4800bd2e61a52c0cf366ffad714dd25c.jpg"
             alt="doctor illustration"
-            // width="400px"
           />
         </div>
         <form className="the-form">
